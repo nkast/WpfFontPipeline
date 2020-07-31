@@ -1,12 +1,8 @@
-﻿#region Using ステートメント
-
-using Microsoft.Xna.Framework;
+﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content.Pipeline.Graphics;
 using Microsoft.Xna.Framework.Graphics.PackedVector;
 
-#endregion
-
-namespace WpfFontPipeline
+namespace tainicom.Aether.Content.Pipeline.Processors
 {
     /// <summary>
     /// 単色テクスチャイメージに特化したDXT3テクスチャ圧縮クラス

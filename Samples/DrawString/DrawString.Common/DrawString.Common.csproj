@@ -45,9 +45,6 @@
     <None Include="Content\font.spritefont" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Content\WpfFontPipeline.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="Icon\Icon.bmp" />
   </ItemGroup>
   <ItemGroup>
