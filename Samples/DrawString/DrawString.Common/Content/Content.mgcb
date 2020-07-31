@@ -10,27 +10,15 @@
 
 #-------------------------------- References --------------------------------#
 
-/reference:WpfFontPipeline.dll
+/reference:..\..\..\..\Content.Pipeline\WpfFontProcessor\bin\Debug\Aether.Content.Pipeline.WpfSpriteFontProcessor.dll
 
 #---------------------------------- Content ---------------------------------#
 
 #begin font.spritefont
 /importer:FontDescriptionImporter
 /processor:WpfFontDescriptionProcessor
-/processorParam:HasAsciiCharacters=True
-/processorParam:HasZenkakuLatinLetters=True
-/processorParam:HasSpecialCharacters=True
-/processorParam:HasHiragana=True
-/processorParam:HasKatakana=True
-/processorParam:HasJisKanjiLevel1=True
-/processorParam:HasJisKanjiLevel2=True
-/processorParam:HasGreekLetters=False
-/processorParam:HasCyrillicLetters=False
-/processorParam:HasBoxCharacters=True
-/processorParam:Text=
-/processorParam:MessageFilenames=
-/processorParam:OutlineThickness=0
-/processorParam:OutlineColor=64,64,64,255
+/processorParam:OutlineThickness=4
+/processorParam:OutlineColor=255,235,0,255
 /processorParam:OutlineShape=Miter
 /processorParam:OutlineStroke=StrokeOverFill
 /processorParam:FontColor=255,255,255,255

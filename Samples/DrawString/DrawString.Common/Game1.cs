@@ -81,7 +81,7 @@ namespace DrawString.Common
 
 			spriteBatch.Begin();
 
-			spriteBatch.DrawString(font, "続・真・簡単(かもしれない)日本語表示 Sample",
+			spriteBatch.DrawString(font, "Sample",
 							  new Vector2(50, 50), Color.White);
 
 			spriteBatch.End();

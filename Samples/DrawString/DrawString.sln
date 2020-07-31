@@ -10,8 +10,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCrossPlatform", "Samp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawString.Common", "DrawString.Common\DrawString.Common.csproj", "{25DC0DE6-E032-443F-BDDF-B27C0CE576FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAndroid", "SampleAndroid\SampleAndroid.csproj", "{B6ED3C04-92EA-4E34-9115-E9941CD48355}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,12 +24,6 @@ Global
 		{25DC0DE6-E032-443F-BDDF-B27C0CE576FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25DC0DE6-E032-443F-BDDF-B27C0CE576FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25DC0DE6-E032-443F-BDDF-B27C0CE576FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B6ED3C04-92EA-4E34-9115-E9941CD48355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6ED3C04-92EA-4E34-9115-E9941CD48355}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6ED3C04-92EA-4E34-9115-E9941CD48355}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{B6ED3C04-92EA-4E34-9115-E9941CD48355}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6ED3C04-92EA-4E34-9115-E9941CD48355}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B6ED3C04-92EA-4E34-9115-E9941CD48355}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
