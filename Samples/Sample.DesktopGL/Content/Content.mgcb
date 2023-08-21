@@ -10,7 +10,7 @@
 
 #-------------------------------- References --------------------------------#
 
-/reference:..\..\..\..\Content.Pipeline\WpfFontProcessor\bin\Debug\Aether.Content.Pipeline.WpfSpriteFontProcessor.dll
+/reference:..\..\..\Content.Pipeline\WpfFontProcessor\bin\Debug\net8-windows\Aether.Content.Pipeline.WpfSpriteFontProcessor.dll
 
 #---------------------------------- Content ---------------------------------#
 
